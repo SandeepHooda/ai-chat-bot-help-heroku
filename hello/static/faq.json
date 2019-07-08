@@ -1,0 +1,323 @@
+{"faqs":[
+	{
+		
+		"questions":["How can I check the price of my company stock?", "How can I find stock price?", "what is my stock's value?", "what is my stock's price?"],
+		"answer":"You can check the price of your stock on the Morgan Stanley StockPlan Connect website or by calling the Voice Response System (VRS). The quote given is a 20-minute delayed price during market hours or the previous day's closing price during non-market hours."
+	},
+	{
+		
+		"questions":["How can I access my account information?"],
+		"answer":"There are three methods to access your account information: 1) Log in to your account online via StockPlan Connect. 2) Call the Morgan Stanley Voice Response System (VRS). 3) Call a Service Center representative or your Morgan Stanley Financial Advisor."
+	},
+	{
+		"questions":["What information is available on StockPlan Connect?", "What can I expect from website?"],
+		"answer":"The Morgan Stanley StockPlan Connect website is designed to help you manage your equity compensation plans. StockPlan Connect allows you to view your account information, place trades, and view and download your account documents."
+	},
+	{
+		"questions":["How do I log off StockPlan Connect?"],
+		"answer":"To log off completely without disconnecting from the Internet, simply click on the log off button located on the left hand side of the page. When you return to our site, you must re-enter your User Name and Password. For privacy and security reasons, you may want to log off from our site completely when you have finished accessing your account information."
+	},
+	{
+		"questions":["Where can I find my Morgan Stanley Account number?"],
+		"answer":"You may obtain your brokerage account number under the Morgan Stanley Wealth Management Accounts section of the Overview tab or in the Profile section of the site under the Payment Instructions tab. If you do not see an account number, please contact a Service Center Representative or your Morgan Stanley Financial Advisor."
+	},
+	{
+		"questions":["Whom do I contact if I have technical questions?","What are customer care phone numbers?", "What are call center phone numbers?"],
+		"answer":"If you require technical assistance with your online account, you may contact the Internet Support Desk. Non-U.S. Participants: 801-617-7435 Toll-Free Number (Within the U.S.): 866-722-7310"
+	},
+	{
+		"questions":["What information is available on the Voice Response System (VRS)?", "What is IVR?"],
+		"answer":"If your company offers this service, the Morgan Stanley Voice Response System (VRS) provides direct access to your stock plan account. When you access your Stock Plan account, you are immediately provided a price quote (20-minute delayed during market hours) for your company stock, your account information and a recent transaction history. If you do not have a touch-tone phone, or you do not wish to make a transaction through the VRS, you can speak to a Service Center Representative by pressing zero (0)."
+	},
+	{
+		"questions":["What is a Restricted Stock Award?"],
+		"answer":"A Restricted Stock Award (RSA) entitles the Participant to ownership rights in the company's stock. These rights are generally subject to sale restrictions and/or risk of forfeiture until certain vesting targets are met (such as employment length or stock performance)."
+	},
+	{
+		"questions":["What is a Restricted Stock Unit (RSU)?"],
+		"answer":"A Restricted Stock Unit (RSU) refers to an award granted in units instead of actual shares. Each unit awarded generally represents the value of one share of stock. Generally, an award of Restricted Stock Units entitles the Participant to stock (equal to the number of units awarded) upon vest. Participants with Restricted Stock Units usually have no ownership or voting rights until the units vest. Additionally, units are usually subject to risk of forfeiture until certain vesting targets are met (such as employment length or stock performance)."
+	},
+	{
+		"questions":["When and how is restricted stock awarded?"],
+		"answer":"When and how restricted stock is awarded varies by company. Please refer to your company's specific plan details."
+	},
+	{
+		"questions":["How do I Accept or Reject an Award?"],
+		"answer":"1) Within the Plan Overview page, look for the award that you would like to accept or reject in the Restricted Stock section. 2) In the column titled Status, you will see the awards that require your acceptance if they have a status of Accept. 3) Click on the Accept button and a new page will load. To Accept or Reject an award, click on the appropriate button."
+	},
+	{
+		"questions":["How long do I have to hold my restricted stock before I can sell it?"],
+		"answer":"The length of time you have to hold your restricted stock varies by company. Please refer to your company's specific plan details."
+	},
+	{
+		"questions":["Does restricted stock have an expiration date?"],
+		"answer":"Restricted Stock ordinarily does not have an expiration term. As a Participant, you are entitled to the stock at vest. Once the stock vests it is yours to sell unless you are subject to post-vest sale restrictions. If you leave the company prior to vest and the Restricted Stock is subject to forfeiture, you may lose any unvested shares or units. Please refer to your company's plan documents for specifics."
+	},
+	{
+		"questions":["Do I get to hold the stock itself with a restricted stock award?"],
+		"answer":"Once shares vest and applicable taxes are paid, the net shares are released and you have full ownership rights. The shares are available for sale unless you are subject to post-vest sale restrictions."
+	},
+	{
+		"questions":["Is my restricted stock subject to forfeiture prior to vest?"],
+		"answer":"Generally, restricted stock is subject to forfeiture prior to vest. Forfeiture events are typically based upon your plan and can include: Retirement, Termination, Death and/ or Disability. Please refer to your company's specific plan details."
+	},
+	{
+		"questions":["What are the possible restricted stock award types that I may receive?"],
+		"answer":"Restricted Stock Shares (RSS)Restricted Stock Shares are awards which entitle the recipient to ownership rights in the company's stock. These rights are generally subject to sale restrictions and/or risk of forfeiture until a specific vesting date in the future. Typically, awards vest in one of two ways: (1) full vesting on a specific date in the future or (2) incremental vesting over several specific dates in the future. During the restricted period the recipient may have voting rights and the right to dividends paid on the restricted shares (please refer to your company's plan document for specifics). Dividends may be paid to you in cash or may be reinvested in additional restricted shares. Once vested, the Restricted Stock Shares are usually no longer subject to restriction. (Note: The definition of RSS may vary depending on the specific terms of each plan. Please refer to your company's plan documents for specifics.)Restricted Stock Units (RSU)Restricted Stock units are awards given to you in units instead of actual shares. Each unit awarded generally represents the value of one share of stock. Generally, an award of Restricted Stock Units entitles the recipient to stock (equal to the number of units awarded) upon vest. Recipients of Restricted Stock Units usually have no ownership or voting rights until vest although the company may chose to pay the recipient a dividend equivalent. Additionally, units are usually subject to risk of forfeiture until a specific date in the future. Typically, units will vest in one of two ways: (1) full vesting on a specific date in the future or (2) incremental vesting over several specific dates in the future. Under most RSU plans, once a vesting occurs, shares equivalent to the underlying Restricted Stock Units are delivered to the recipient. (Note: Your company may pay you the cash equivalent of your restricted stock units at vest instead of giving you shares; please refer to your company's plan documents to determine if this is applicable to you.)Performance Stock Shares (PSS)Performance Stock Shares are awards which entitle the recipient to ownership rights in the company's stock. These rights are generally subject to sale restrictions and/or risk of forfeiture until a specific performance measurement is satisfied. Performance measurements will vary based on the plan under which they were granted. Please consult your company's plan documents for specifics on performance measurements. Typically, awards vest in one of two ways: (1) full vesting on or after a specific performance measurement date or (2) incremental vesting over several specific performance measurement dates. During the restricted period the recipient may have voting rights and the right to dividends paid on the restricted shares (please refer to your company's plan document for specifics). Dividends may be paid to you in cash or may be reinvested in additional performance shares. Once vested, the restricted shares are usually no longer subject to restriction.Performance Share Units (PSU)Performance Share Units are awards granted in units instead of actual shares. Each unit awarded generally represents the value of one share of stock. Generally, an award of Performance Share Units entitles the recipient to stock upon vest. (Note: Your company may pay you the cash equivalent of your Performance Share Units at vest instead of giving you shares; please reference your company's plan documents to determine if this is applicable to you.) Recipients of Performance Share Units usually have no ownership or voting rights until vest although the company may choose to pay the recipient a dividend equivalent. Additionally, Performance Share Units are usually subject to risk of forfeiture until a specific performance measurement is satisfied. Typically, Performance Share Units will vest in one of two ways: (1) full vesting on or after a specific performance measurement date or (2) incremental vesting over several specific performance measurement dates. Under most Performance Share Unit plans, once a vesting occurs, shares equivalent to the underlying units are generally delivered to the recipient.Deferred Stock Shares (DSS)The definition of Deferred Stock Shares may vary depending on the specific terms of each plan. Please refer to your company's plan documents for specifics.Deferred Stock Units (DSU)The definition of Deferred Stock Units may vary depending on the specific terms of each plan. Please refer to your company's plan documents for specifics.Phantom Stock Awards (PSA)A Phantom Stock Award is a type of incentive award in which the recipient is not issued actual shares of stock on the award date but receives a credit equal to a certain number of hypothetical per shares. The payout on a Phantom Stock Award at vest is generally the difference between the hypothetical share value at award and the hypothetical value at vest. Payout may be settled in cash or stock. Phantom Stock Award vestings may be time-based or performance based. Performance criteria will vary. Please refer to your company's specific plan details."
+	},
+	{
+		"questions":["What is the difference between restricted stock and performance stock?"],
+		"answer":"Restricted Stock Shares are issued but cannot be sold until they vest, usually after a specified length of employment or sometimes, after performance goals have been met. Performance Stock Shares are usually part of a long-term performance plan, and the payout is earned by meeting targets and/or goals. When in the form of performance stock, the payment may be in stock or in cash and may have other design features."
+	},
+	{
+		"questions":["What does vesting mean?"],
+		"answer":"After receiving an award, your company may require a waiting period. Specific percentages of the award vest at designated periods of time over the life of the award."
+	},
+	{
+		"questions":["My restricted stock will be released at vesting. What does that mean?"],
+		"answer":"Releasing restricted stock is the process by which your company transfers shares to you when your restricted stock vests. After the vesting occurs and any applicable withholding taxes are paid, your shares are released."
+	},
+	{
+		"questions":["What happens once my restricted awards/units vest?"],
+		"answer":"After vesting, awards become stock that you own outright like any other stock. The stock is available for sale unless you are subject to post-vest sale restrictions. Units may settle in stock or cash depending on your company's plan."
+	},
+	{
+		"questions":["What is a tax payment election, and why may I need to make an election before my restricted stock vests?"],
+		"answer":"The tax payment election allows you to choose the method by which you may pay withholding taxes on the stock or units that vest (unless your plan automatically prescribes the tax payment method). The specifics depend on each company's plan, policy, and practice."
+	},
+	{
+		"questions":["What is a deferral election?"],
+		"answer":"For deferred vesting, a deferral election allows you to defer the delivery of the shares from vest date until another date in the future. If your company's plan, policy, and practice allows for deferrals, and you choose to defer receipt of your shares, tax consequences may also be delayed to the date of actual share delivery. This election needs to be made in advance (based upon rules specified by your company).Deferral Choices: Until Next Vest,Retirement,Death, Termination, Until a Specific Period"
+	},
+	{
+		"questions":["Do I get dividends with restricted stock units (RSU)? How are these dividends taxed?"],
+		"answer":"When a company pays dividends on outstanding shares of stock, it may pay dividend equivalents on Restricted Stock Units. Dividend equivalent payments may either be paid in cash or may be reinvested in additional units. Generally, if reinvested in additional units, these additional units will usually follow the same vesting schedule as the original Restricted Stock Unit award. Your company will decide whether you have a right to dividend equivalents and how they will be treated. Your company will also decide how fractional shares that result from the reinvestment of a dividend equivalent are handled. Dividends paid in cash are always taxable upon receipt. A dividend paid in the form of additional units will normally be taxable at the time the units vest, which in most cases is the same time as the Restricted Stock Unit to which the dividend is attributable. The dollar value of the dividend is reported as additional compensation on your Form W-2 (unless a deferral election is allowed and made)."
+	},
+	{
+		"questions":["How does the U.S. taxation of Restricted Stock Awards and Restricted Stock Units differ?"],
+		"answer":"With Restricted Stock Shares, you are usually taxed at vest. However, if you choose to make what is commonly referred to as a Section 83(b) Election, you will pay tax when you are awarded the restricted stock, but not when it vests. You will report capital gain or loss when you eventually sell the stock. With Restricted Stock Units you are taxed at vest unless you previously made a deferral election. The type of deferral election will dictate the tax consequences. With Restricted Stock Units, the delivery of shares usually occurs at vesting unless a deferral election is made. If a deferral occurs, you may be taxed at the end of the deferral period rather than at vest. If the shares from a Restricted Stock Award never vest because you leave the company, you cannot recover any taxes that you paid with the 83(b) election."
+	},
+	{
+		"questions":["How is restricted stock taxed with the U.S.?", "How is restricted stock taxed with the US?", "How is restricted stock taxed with the USA?", "How is restricted stock taxed with the United States"],
+		"answer":"Generally, you pay tax at the time the award vests. Your taxable income is usually the value of the stock and minus any amount paid for the stock (generally, $0). The value of the stock at vest is determined by your company's plan documents.Example: You are awarded 1,000 shares of restricted stock that vest 100% three years after the award date. The FMV on award date was $10, the value of the stock in year three at vest is $20. Your ordinary income at vest equals $20,000 (1,000 shares multiplied by $20). If you sell all 1,000 shares of stock two years after vest, when the price is at $30, you capital gain would be $10,000 ($30 minus $20, multiplied by 1,000).Alternatively, you may be able to make a Section 83(b) Election with the IRS within 30 days of the award. You will then pay taxes on the value of the stock at award, which will start your capital gains holding period. If the shares never vest because you leave the company, you cannot recover any taxes that you paid with the 83(b) Election.Scenario 1: Using the example above, you make a timely 83(b) Election at award. You will then pay taxes on ordinary income of $10,000 ($10 fair market value at award multiplied by 1,000 shares). You will pay no additional taxes at the time of the vest. However, if you sell two years after vest at $30 per share, your capital gain will be $20,000 ($30 minus $10, multiplied by 1,000 shares).Scenario 2: Using the example above, you make a timely 83(b) Election at award. You then pay taxes on ordinary income of $10,000 ($10 fair market value at award multiplied by 1,000 shares). One year later, you terminate your employment with the company and forfeit your shares. In this scenario, you will have paid tax on $10,000 of ordinary income, yet you will receive no shares and you may not reclaim the taxes from the Internal Revenue Service."
+	},
+	{
+		"questions":["Is there tax withholding on restricted stock?"],
+		"answer":"Generally, there is withholding tax on restricted stock at vest. The receipt of restricted stock will result in ordinary income to you either when it vests or at award date if you properly filed a Section 83(b) election. The withholding treatment is similar to that of any other form of compensation. Withholding taxes (that will appear on your W-2) include:Federal income taxSocial Security (up to the maximum) and MedicareState and Local taxes, when applicable"
+	},
+	{
+		"questions":["What is included in my W-2 in connection with a restricted stock award?"],
+		"answer":"The award of restricted stock will result in ordinary income to you. This occurs either at the time the award vests or when an 83(b) election is made (for unvested shares within 30 days of the award). Your compensation is the stock price at vesting multiplied by the number of shares vested. (If an 83(b) election was made at the time the restricted stock was awarded, your compensation income is the fair market value of the stock price at award multiplied by the total shares granted.) The income will be reported on Form W-2 as follows:Box 1: wages, tips, and other compensation ,Box 3: Social Security wages up to the income ceiling, Box 5: Medicare, Box 16: state wages (if applicable), Box 18: local wages (if applicable), The amount withheld in connection with your restricted stock is included, when appropriate, in Boxes 2, 4, 6, 17, and 19."
+	},
+	{
+		"questions":["Can I make a Section 83(b) election for an award of restricted stock units (RSUs)?"],
+		"answer":"Most experts say that you cannot: there is no distribution of property (i.e., shares) at the time of the RSU award, as there is with restricted stock. Without the election, you are taxed at the time the shares are distributed, usually at vesting (unless a deferral election is available and is made)."
+	},
+	{
+		"questions":["What is a Form W-8BEN?"],
+		"answer":"Form W-8BEN is a Certificate of Foreign Status received by the IRS for non-U.S. participants. By completing a Form W-8BEN, you certify under penalties of perjury that you are neither a U.S. citizen nor resident alien, and are not subject to certain U.S. information return reporting.A Form W-8BEN remains in effect until December 31st of the third year after filing."
+	},
+	{
+		"questions":["What happens if I exercise my options without submitting a Form W-8BEN?"],
+		"answer":"If Morgan Stanley does not receive your form or you elect not to certify online, the IRS mandated backup withholding will be deducted from the proceeds of your sale."
+	},
+	{
+		"questions":["How can I certify my Form W-8BEN?","How can I submit my Form W8?","How can I file my Form W8?"],
+		"answer":"You can certify your Form W-8BEN in two ways:To electronically certify your Form W-8BEN online, please go to the Profile section of this site and click on the Tax Information tab.To mail your form, you are required to send a signed, original, and completed Form W-8BEN via regular mail or overnight delivery to Morgan Stanley. The address to send the completed form appears on the bottom of the form."
+	},
+	{
+		"questions":["Whom do I contact regarding tax withholding advice?"],
+		"answer":"If you have questions about tax withholding requirements in your country, you should seek advice from a local tax advisor."
+	},
+	{
+		"questions":["How does Morgan Stanley arrive at a tax rate for me?"],
+		"answer":"All tax rates are provided by your company's payroll department to Morgan Stanley. In the United States, Federal, FICA, Social Security, Medicare, and State and Local rates are withheld, where applicable. If you are a non-U. S. employee, tax withholding treatment varies. You should consult your tax advisor."
+	},
+	{
+		"questions":["What is a Form W-9?"],
+		"answer":"A Form W-9 is a Payer's Request for Taxpayer's Identification Number and Certification. Under penalties of perjury, this form tells Morgan Stanley that you are not subject to backup withholding because of under-reporting interest and dividends on your tax return, and to certify that the Social Security Number shown on the Form is your correct taxpayer identification number. This form is generally applicable to U.S. persons, including resident aliens. The address to which the completed form must be sent appears on the bottom of the form. Please Note: If you have not previously faxed this completed form or electronically certified, it is imperative that you certify your tax status prior to selling your shares with Morgan Stanley. You may certify electronically on StockPlan Connect, or by faxing this completed form. If this certification is not received, the correct applicable withholding rate, 24%, will be deducted from the proceeds of your sale."
+	},
+	{
+		"questions":["How can I certify my Form W-9?", "How can I submit my Form W9?", "How can I file my Form W9?"],
+		"answer":"You can certify your Form W-9 in two ways: To electronically certify your W-9 online, please go to the Profile section of this site and click on the Tax Information tab. You can fax or mail your completed form by downloading the form from the Forms section on the site."
+	},
+	{
+		"questions":["What is a Stock Option (also referred to as a grant or stock option grant)?"],
+		"answer":"A Stock Option is the right, but not the obligation, to purchase a company's stock at a fixed price over a fixed period of time."
+	},
+	{
+		"questions":["Who is an Optionee?"],
+		"answer":"An Optionee is an employee who is eligible under the terms of the plan to receive a stock option grant. Eligibility requirements vary by company. Please refer to your company's specific plan details."
+	},
+	{
+		"questions":["What is the Grant Price (also referred to as the option price or strike price)?"],
+		"answer":"The Grant Price is the price at which you have the right to buy the vested stock during the term of the option."
+	},
+	{
+		"questions":["What is the life of the option?"],
+		"answer":"The life of the option is the predetermined, fixed period of time over which you may purchase the company's stock."
+	},
+	{
+		"questions":["What is the Expiration Date?"],
+		"answer":"The Expiration Date is the date that any outstanding options are forfeited if they have not previously been exercised or terminated early in accordance with the terms and conditions of your company’s plans (e.g., in connection with your termination of employment). Since all plans can treat this expiration date and the timing of the grant expiration differently, refer to your company's plan documents for related details regarding your plan. It is important to note the last day on which you can exercise your option may be a different day than what is being displayed as your expiration date. Monitor your expiration date and be aware of when the market is open. If the option is set to expire on a day that the market is closed, you need to act when the market is open before your plan defined expiration date. Generic Example: An employee receives a grant of 100 options on January 5, 2008. The stock option plan states that the options will expire ten (10) years from the date of grant. The expiration date is January 5, 2018."
+	},
+	{
+		"questions":["When and how are stock options  granted?"],
+		"answer":"When and how stock options are granted varies by company. Please refer to your company's specific plan details."
+	},
+	{
+		"questions":["How do I Accept or Reject a Grant?"],
+		"answer":"1) Within the Plan Overview page, look for the grant that you would like to accept or reject in the Stock Options section. 2) In the column titled Status, you will see the grants that require your acceptance if they have a status of Accept. 3) Click on the Accept button and a new page will load. To Accept or Reject a grant, click on the appropriate button."
+	},
+	{
+		"questions":["Can I transfer my stock options to another person?"],
+		"answer":"No, your stock options can only be exercised by you and cannot be transferred to another individual."
+	},
+	{
+		"questions":["What does vesting mean?"],
+		"answer":"When stock options vest, the stock option grant is available for exercise. Since vesting schedules vary, please refer to your plan documents."
+	},
+	{
+		"questions":["Why can I exercise only a percentage of my stock options?"],
+		"answer":"The options for each grant vest according to your company's vesting schedule. Please refer to your company's specific plan details."
+	},
+	{
+		"questions":["Do I have to exercise my options when they vest?"],
+		"answer":"No. You can exercise any amount of vested shares anytime over the life of the grant."
+	},
+	{
+		"questions":["What is a Cashless-for-Cash Exercise?"],
+		"answer":"With a Cashless-for-Cash Exercise, you purchase shares of your company stock at the grant price and simultaneously sell them at market. The proceeds will be sent to you as per your instructions."
+	},
+	{
+		"questions":["What is a Sell To Cover Exercise?"],
+		"answer":"A Sell To Cover Exercise allows you to exercise your stock options and sell enough shares to cover the option cost, applicable withholding taxes and transactions fees. The remaining shares are held in your stock plan account or transferred to another account pursuant to your instructions."
+	},
+	{
+		"questions":["What is an Exercise and Hold /Cash Exercise?"],
+		"answer":"An Exercise-and-Hold/Cash Exercise is a method where you use your personal savings or other funds to pay for the option cost and/or taxes of the transaction. The exercise occurs upon your request; however, cleared funds must be at Morgan Stanley to exercise this type of transaction. The shares purchased will be deposited into your Morgan Stanley Account."
+	},
+	{
+		"questions":["What is a Stock Swap?"],
+		"answer":"A Stock Swap—also known as a stock for stock exercise—is a type of cashless exercise in which shares of stock you already owned are delivered in lieu of cash to pay for the exercise of stock options. This option is not available to all plans. Please contact the Service Center for more information on the stock swap options."
+	},
+	{
+		"questions":["May I exercise my stock options via phone?"],
+		"answer":"Yes, you may utilize the Voice Response System (VRS) or speak with a Service Center Representative to exercise your stock options. The Service Center is available Monday-Friday 8:00 a.m.-8:00 p.m. ET."
+	},
+	{
+		"questions":["Who may exercise my stock options?"],
+		"answer":"Authorization to exercise stock options will only be accepted directly from the Optionee. Spouses, brokers and financial advisors may NOT initiate a transaction."
+	},
+	{
+		"questions":["May I exercise my stock options at the time they are granted?"],
+		"answer":"Stock options cannot be exercised until they become exercisable or vested. Refer to your plan documents or contact the Service Center for more information."
+	},
+	{
+		"questions":["What are the expenses that are deducted from my proceeds at the time of exercise?"],
+		"answer":"When an option is exercised, Morgan Stanley will deduct the cost of the shares based on the grant price, applicable taxes and transaction fees from the proceeds. Transaction fees may include any applicable commissions, fees based on the proceeds delivery method you have selected and other fees. In addition, Other Fee is a transaction fee applicable to securities transactions on exchanges and over-the-counter markets."
+	},
+	{
+		"questions":["Do I receive dividends on my stock options?"],
+		"answer":"No, a stock option is a right to purchase stock. You only receive dividends on shares of stock you actually own."
+	},
+	{
+		"questions":["How can I exercise my options and receive the dividends?"],
+		"answer":"To qualify for a dividend, the optionee must exercise the option on or before the dividend record date. A stockholder must officially own shares as of the record date in order to receive the dividend or vote at the meeting."
+	},
+	{
+		"questions":["Once my stock options are exercised, how can I sell stock and still receive a dividend?"],
+		"answer":"If you plan to sell shares, but want to be entitled to the dividend, you must not initiate the sale until the ex-dividend date which is the first day the stock begins trading without (or ex) the buyer being entitled to the dividend. (The date normally is the second business day prior to the dividend record date.)"
+	},
+	{
+		"questions":["What happens to my options in the event the company declares a stock split?"],
+		"answer":"In the event of a stock split, the terms of your options are adjusted, enabling the exercise for a proportionately greater number of shares with a corresponding reduction in the per-share exercise price. For example, if you hold options for 1,000 shares with an exercise price of $40 per share (an aggregate exercise cost of $40,000) and the Company declares a 2-for-1 split, you would then hold options for 2,000 post-split shares with an adjusted exercise price of $20 per share (the aggregate exercise cost remaining at $40,000)."
+	},
+	{
+		"questions":["How will I know if I am exercising for pre- or post-split shares?"],
+		"answer":"Exercises on or prior to the record date for the stock split will result in the split shares being paid to you. Whether or not you are entitled to keep the split shares in the event of a sale of stock to cover your exercise cost and withholding taxes depends on whether your stock was sold at the higher pre-split market price or whether your stock was sold on or after the lower post-split market price when the stock commences trading ex without the buyer being entitled to the split shares."
+	},
+	{
+		"questions":["What is common stock?"],
+		"answer":"Common stock is units of ownership of a corporation. Holders of common stock are typically entitled to vote on the selection of directors and other important matters. Common stock is distinguished from preferred stock, which generally has more favorable dividend and liquidation rights, but not the same voting rights."
+	},
+	{
+		"questions":["What are the benefits of stock ownership?"],
+		"answer":"Some of the benefits of stock ownership include: 1) Potential stock price appreciation 2) Voting rights on company issues 3) Dividend payments at the discretion of the company, provided the company has accumulated earnings and profits."
+	},
+	{
+		"questions":["Do I receive dividends on my stock plan shares?"],
+		"answer":"Depending on your company, you may receive dividends. If your company pays out dividends, you will receive dividends on the shares of stock you own."
+	},
+	{
+		"questions":["May I sell my stock plan shares at the time they are allocated?"],
+		"answer":"Stock plan shares may or may not be restricted under the terms and conditions of your stock plan for a period of time. On the Plan Overview page, go to the Available for Sale link or click on the Sell Shares button to view shares that are available for sale."
+	},
+	{
+		"questions":["Who may sell my stock plan shares?"],
+		"answer":"Only the participant can authorize the sale of stock plan shares. Spouses, brokers, and financial advisors may NOT initiate transactions."
+	},
+	{
+		"questions":["What is a Disqualifying Disposition"],
+		"answer":"A sale or disposition of shares acquired through an employee stock plan within two years from the subscription or enrollment date or within one year from the purchase date as defined under Section 423 of the United States Internal Revenue Code. Upon a disqualifying disposition, the employee recognizes taxable ordinary income, and the company is entitled to claim a deduction, equal to the excess of the fair market value on the purchase date over the purchase price."
+	},
+
+	{
+		"questions":["What options are available for the delivery of my proceeds?"],
+		"answer":"These alternatives vary by company. A listing of proceeds delivery methods will be given to you when creating an order."
+	},
+	{
+		"questions":["Can the net proceeds from my sale be wired directly to my bank? When do I need to submit instructions about my bank?"],
+		"answer":"Yes, however, you must complete your bank instructions prior to or directly after submitting a U.S. Fed Fund Wire Transfer or Electronic Funds Transfer (EFT) as your proceeds-delivery method for a trade. Your U.S. Fed Fund Wire Transfer or EFT instructions must be completed online by 4:00 p.m. ET on the second business day following the trade or faxed prior to 4:00 p.m. ET on the first business day following the trade date. If bank instructions have not been submitted, the wire or Fund Transfer will be rejected and a check will be mailed to your address on record. If you need help submitting your bank instructions, please go to the U.S. Fed Fund Wire Transfer or EFT instructions section."
+	},
+	{
+		"questions":["Can you send the check to a different address, other than the address of record?"],
+		"answer":"No, for security purposes all checks are sent to the address of record. To change your address: Complete and submit a Change of Address Form which can be found in the Forms section of this site. In addition, you must contact your plan administrator to update the change in your company's system because all company changes will override any previous changes."
+	},
+	{
+		"questions":["What if I lose or misplace my check before cashing it? How can I get a replacement check?"],
+		"answer":"If you have lost or misplaced your check, please call a Service Center Representative. The number is posted in Service Center section of this website."
+	},
+	{
+		"questions":["How and when do I receive my proceeds?"],
+		"answer":"The net proceeds from your sale will be available as soon as your trade settles (Trade Date + 3 business days for US dollars and Trade Date + 6 business days for currency). If you request the following methods, please review the estimated proceeds delivery date:Deposit into a Morgan Stanley account: The proceeds of this sale will be directly deposited into your Morgan Stanley Account. Check via Regular Mail : If you choose this method, Morgan Stanley will mail your sale proceeds to the address we have on file for you. You should receive your proceeds within 7 business days of settlement date (within the US) or 10-15 business days (non-US). Deliver via overnight delivery: The proceeds of this sale will be sent via overnight delivery to your address on file on the trade settlement day. The estimated arrival date of your check is Trade Date + 3 business days (T+3). Please keep in mind there may be delays in the delivery due unforeseen circumstances.  The Service Center can provide you with a tracking number on T+3 (the estimated date of delivery). Deliver via a U.S. Fed Fund Wire Transfer: The proceeds of this sale will be sent via U.S. Fed Fund Wire Transfer to your bank account on settlement date if your completed bank instructions are on file. Your U.S. Fed Fund Wire Transfer instructions must be completed online by 4:00 p.m. ET on the second business day following the trade or faxed prior to 4:00 p.m. ET on the first business day following the trade date. If wire instructions are not completed on time, the wire will be rejected and a check will be mailed to your address on record. Please go to the U.S. Fed Fund Wire Transfer Instructions section if you need help submitting your bank instructions. Deliver via Company Payroll: The proceeds of this sale will be sent to you through your company's payroll. Your company will receive the proceeds from Morgan Stanley after your trade settles (Trade Date + 3 business days). Then, your company will deliver the proceeds to you through your normal payroll process. Please contact your company's payroll department if you have any questions regarding their delivery of these proceeds. Deliver via Electronic Funds Transfer : The proceeds of this sale will be sent via Electronic Funds Transfer (EFT) to your bank account within 5 business days if your completed bank instructions are on file. Your EFT instructions must be completed online by 4:00 p.m. ET on the first business day following the trade or faxed prior to 4:00 p.m. ET on the first business day following the trade date. If they are not available at that time, the EFT will be rejected and a check will be mailed to your address on record. If you need help submitting your bank instructions, please go to the instructions section."
+	},
+	{
+		"questions":["What if I submit insufficient, invalid or inaccurate instructions?"],
+		"answer":"Wires that have not been sent for settlement due to insufficient, invalid or inaccurate wire instructions can be re-sent once Morgan Stanley has received valid or accurate instructions. Morgan Stanley will not be responsible for any loss or expense that you incur as a result of submitting insufficient, invalid or inaccurate instructions."
+	},
+	{
+		"questions":["Can Morgan Stanley store multiple instructions?"],
+		"answer":"No, Morgan Stanley can only store a single set of instructions for each type (U.S. Dollar, Currency, Electronic Fund Transfer). If you would like to change your wire instructions, you will need to modify or delete the instructions that are on file at Morgan Stanley and re-submit your new instructions."
+	},
+	{
+		"questions":["What is a ABA Routing Number?"],
+		"answer":"The ABA Routing Number is a 9-digit number assigned to the bank by the American Bankers Association (ABA) and used for routing transfers and other transactions. The routing number for a Electronic Funds Transfer (EFT) transfer may differ from a U.S. Fed Fund Wire routing number. If you do not know your bank's ABA/Routing Number, please contact your financial institution."
+	},
+	{
+		"questions":["What happens if I entered a trade and exited the Morgan Stanley StockPlan Connect site without submitting my wire instructions online?"],
+		"answer":"Partial instructions will not be saved. If you do not return to Morgan Stanley StockPlan Connect and complete instructions, your net proceeds will be delivered in your requested currency to your address of record."
+	},
+	{
+		"questions":["What is the BIC, SWIFT code and National Identifier?"],
+		"answer":"Bank Identifier Codes (BIC) are international codes unique to each bank. Similarly, the Society for Worldwide Interbank Financial Telecommunication (SWIFT) code and the National Identifier are all unique identifiers that enable funds to transfer securely."
+	},
+	{
+		"questions":["What is an IBAN?"],
+		"answer":"The International Bank Account Number (IBAN) is an international standard for numbering bank accounts. When a cross-border payment is made in Europe, an IBAN is used to identify the account to which the payment should be made. An IBAN is always used in conjunction with a SWIFT/Bank Identifier Code (BIC). The IBAN consists of an ISO 3166-1 alpha-2 country code, followed by 2 check digits, and up to 30 alphanumeric characters for the domestic bank account number, called the BBAN (Basic Bank Account Number). Each country's national banking community decides on the fixed length of the BBAN for accounts in that country. Only the bank servicing an account can provide the correct International Bank Account Number (IBAN) of that account and the related Bank Identifier Code (BIC). You must contact your bank to obtain your IBAN or additional information."
+	},
+	{
+		"questions":["What is the difference between an IBAN and my account number?"],
+		"answer":"Your account number and branch details are the primary way in which the bank identifies your account. Your IBAN is used for receipt of cross-border payments in your favor to identify your account in a uniform way. The IBAN permits the sending bank to validate that the data provided is in the correct format."
+	},
+	{
+		"questions":["Where can I get my IBAN account number?"],
+		"answer":"When you open an account with any bank in Europe, the bank is required to provide you the IBAN account number along with your domestic account number. It is the legal requirement for all banks in Europe to issue your IBAN. You must contact your bank to obtain your IBAN or additional information."
+	},
+	{
+		"questions":["How can I complete or update my Electronic Funds Transfer (EFT) Instructions?"],
+		"answer":"Your Electronic Fund Transfer (EFT) instructions can be completed and/or updated in the following way:To complete or edit your EFT instructions online (if allowed by your company), please go to Profile and select the Payment Instructions tab. Your ETF instruction status will be listed as on file or not on file."
+	}
+
+	
+]}
